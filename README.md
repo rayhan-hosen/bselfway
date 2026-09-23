@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 অ্যাপের সংক্ষিপ্ত পরিচয় (Overview)
+## 📌 অ্যাপের পরিচয় (App Overview)
 
 <p align="center">
   <img src="images/bselfway-image.png" alt="bSelf Way Banner" width="380">
